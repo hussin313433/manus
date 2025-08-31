@@ -1,0 +1,45 @@
+تقرير تحميل ملفات Manus
+==================================================
+
+CSS Files:
+--------------------
+  24254.7fb1827ea7ffb189.css (185,017 bytes)
+  710d602b8d8017b0.css (5,754 bytes)
+  7fb1827ea7ffb189.css (185,017 bytes)
+  95434.710d602b8d8017b0.css (5,754 bytes)
+
+JavaScript Files:
+--------------------
+  12626-16f0a0135a017add.js (115,339 bytes)
+  21731-186abe3a61654892.js (33,804 bytes)
+  24907-32e2a9030ba56e03.js (85,930 bytes)
+  30271-10479ef6df6e06b4.js (81,466 bytes)
+  33355-e03bdda8ee9faf1e.js (170,036 bytes)
+  42e2cb16-0dbc7f1c9ac9fdde.js (167,097 bytes)
+  44291-c9da3cc5d81db5b4.js (64,930 bytes)
+  53082-46f1ea7e83bff1f2.js (26,435 bytes)
+  53897-0b5284d65e3c14a9.js (235,823 bytes)
+  54119-b834881d3a20b0de.js (22,878 bytes)
+  5685-06b7ee0d8df98cc3.js (508,656 bytes)
+  60930-56ebe36d3e9b1323.js (35,692 bytes)
+  61051-22e66bbb7516ed66.js (336,540 bytes)
+  71c5d705-19f505b6befab694.js (21,665 bytes)
+  81782-a6d0ec0a21e5f650.js (80,731 bytes)
+  82053-d4f2a2627d1b37ae.js (200,973 bytes)
+  83377-caa3e7615a54df87.js (10,110 bytes)
+  94301-3683478cd8e2f9a2.js (218,490 bytes)
+  layout-c1278d6c9aaba680.js (13,269 bytes)
+  main-app-0ec534b7f70b1111.js (478 bytes)
+  page-a01ae6c5fea5f34f.js (189 bytes)
+  polyfills-42372ed130431b0a.js (112,594 bytes)
+  script.js (2,966 bytes)
+  webpack-48eefeba565e2d64.js (33,570 bytes)
+
+Images Files:
+--------------------
+  ogBanner.png (283,737 bytes)
+
+Assets Files:
+--------------------
+  لا توجد ملفات
+
